@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    	<title>Kroki Marco</title>
+        <link rel="stylesheet" href="https://unpkg.com/@atlaskit/css-reset@2.0.0/dist/bundle.css" media="all">
+        <script src="https://connect-cdn.atl-paas.net/all.js" async></script>
+    </head>
+    <body>
+    		<br/>
+            <div style="padding:1%">
+				<div style="width:20%;float:left">
+					<img src="https://softwaretaodev.atlassian.net/s/-egccmf/b/24/7ba7c43a209d54271e8c5938c5a4dc98/_/jira-logo-scaled.png" alt="" style="display:block;margin-left:auto;margin-right:29%" height="110" width="110">
+            		<br/>
+					<h3><b>Resources</b></h3>
+						<ul>
+							<li><a target="_blank" href="https://www.wikipedia.org">Kroki</a></li>
+							<li><a target="_blank" href="https://softwaretao.atlassian.net/servicedesk/customer/">Raise a ticket</a></li>
+							<li><a target="_blank" href="mailto:service@softwaretao.com">Support Email</a></li>
+						</ul>
+				</div>
+	            <div style="margin-left:2%;width:78%;height:100%;float:left">
+						<h1>Wikipedia Macro for Confluence</h1>
+						<br/>
+						<div>
+							<p>A macro which integrates <a target="_blank" href="https://www.wikipedia.org">Wikipedia</a> on Confluence page.</p>
+							<p>The best Wikipedia experience on your confluence.</p>
+							<p>With the Wikipedia Macro app, you can search and explore 40+ million articles in the world’s largest source of information.</p>
+						
+							
+						</div>
+						<p></p><hr/><p></p>
+						<p>We built this App on the Atlassian-hosted Forge platform so you can enjoy highest levels of security and performance.</p>
+			    			<br/>
+			    			<br/>
+					</div>
+					<br/>
+				</div>
+			</div>
+        </section>
+    </body>
+</html>
